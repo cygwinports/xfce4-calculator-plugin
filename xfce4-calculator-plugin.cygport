@@ -1,0 +1,9 @@
+inherit xfce4
+
+NAME="xfce4-calculator-plugin"
+VERSION=0.6.0
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Calculator for Xfce panel"
+DESCRIPTION="This is a calculator plugin for the Xfce4 panel."
+HOMEPAGE="http://goodies.xfce.org/projects/panel-plugins/xfce4-calculator-plugin"
